@@ -1,0 +1,6 @@
+UserInterface.Hospital.Patient.ComplainStatusJPanel
+UserInterface.Hospital.Patient.ComplainStatusJPanel$5
+UserInterface.Hospital.Patient.ComplainStatusJPanel$4
+UserInterface.Hospital.Patient.ComplainStatusJPanel$3
+UserInterface.Hospital.Patient.ComplainStatusJPanel$2
+UserInterface.Hospital.Patient.ComplainStatusJPanel$1
