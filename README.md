@@ -44,6 +44,6 @@
 7) JFree Chart to display fraud statistics
 
 **Example Use Case**
-1) A patient files a complain with the Division of Medical Services organization if he/she feels they are being defrauded
-2) Division of Medical Services will ask for relevant documents of the patients from Release Of Information organization of the hospital
-3) If fraud is detected than by the medical services department than work request is forwarded to Law Enforcement who will fine the Hospital
+1) A patient files a complain with the Division of Medical Services organization if he/she feels being defrauded
+2) Division of Medical Services will ask for relevant medical files of the patients from Release Of Information organization of the hospital
+3) If fraud is detected by the medical services department than work request is forwarded to Law Enforcement who will fine the Hospital
